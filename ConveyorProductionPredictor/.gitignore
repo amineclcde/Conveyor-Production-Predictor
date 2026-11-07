@@ -1,0 +1,20 @@
+# Environnement virtuel Python
+.venv/
+venv/
+
+# Secrets et configurations propres à chaque ordinateur
+.env
+
+# Base SQLite locale générée automatiquement
+instance/*.db
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+
+# Fichiers VS Code propres à l'utilisateur
+.vscode/settings.json
+
+# Documents personnels exclus de la version GitHub
+RAPPORT_STAGE.pdf
+amine.jpeg
