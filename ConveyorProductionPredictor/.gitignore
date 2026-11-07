@@ -14,7 +14,3 @@ __pycache__/
 
 # Fichiers VS Code propres à l'utilisateur
 .vscode/settings.json
-
-# Documents personnels exclus de la version GitHub
-RAPPORT_STAGE.pdf
-amine.jpeg
